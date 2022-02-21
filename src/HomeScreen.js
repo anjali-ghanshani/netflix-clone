@@ -23,11 +23,11 @@ function HomeScreen() {
           fetchUrl={requests.fetchTrending}
           isLargeRow 
       />
-      <Row
+      {/* <Row
           title='Top Rated'
           fetchUrl={requests.fetchTopRated}
           isLargeRow 
-      />
+      /> */}
       <Row
           title='Action Movies'
           fetchUrl={requests.fetchActionMovies}
