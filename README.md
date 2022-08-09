@@ -14,7 +14,8 @@ Web url: <https://netflix-clone-demo-69363.firebaseapp.com/>
 
 Screenshots:
 
+![Netflix-ss4](images/netflix-signup-screen.png)
 ![Netflix-ss1](./images/netflix-demo-desktop-view.png)
 ![Netflix-ss2](./images/netflix-demo-home-page.png)
 ![Netflix-ss3](./images/Netflix-demo-mobile.png)
-![Netflix-ss4](images/netflix-signup-screen.png)
+
